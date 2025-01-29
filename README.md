@@ -1,4 +1,5 @@
-🚀 Java Playground – Mastering Java One Code at a Time! ☕
+#🚀 Java Playground – Mastering Java One Code at a Time! ☕
+
 Welcome to my Java repository! 🎉 This is a collection of Java programs, projects, and problem-solving scripts that I’ve worked on. Whether you are a beginner or an experienced developer, there's something valuable for you here! 🚀
 
 📌 What’s Inside?
